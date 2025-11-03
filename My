@@ -1,0 +1,8 @@
+# file: motivation.py
+
+def main():
+    message = "Keep pushing forward — every step counts! 💪"
+    print(message)
+
+if __name__ == "__main__":
+    main()
