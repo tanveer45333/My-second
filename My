@@ -6,3 +6,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+cd Desktop
+mkdir motivation
+cd motivation
+git init
